@@ -71,6 +71,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+![Dashboard Preview](dashboard/Screenshot 2025-11-14 201550.png)
 
 ---
