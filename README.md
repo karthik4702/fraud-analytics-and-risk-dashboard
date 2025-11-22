@@ -77,7 +77,7 @@ This project is licensed under the MIT License.
 
 This is a portfolio project, and I’m always open to feedback and improvement ideas.
 
-- 💼 **LinkedIn:** _[www.linkedin.com/in/karthik-s-128546310]_  
+- 💼 **LinkedIn:** _[www.linkedin.com/in/karthik4702]_  
 - 📧 **Email:** _[karthik4702@gmail.com]_  
 
 If you found this useful or have suggestions, feel free to reach out or open an issue in the repository. 😊
